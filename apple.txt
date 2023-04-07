@@ -1,3 +1,0 @@
-THis is my dummy file
-This is my second commit
-THis is my third commit
